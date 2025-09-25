@@ -8,8 +8,8 @@
     "test": "test"
   },
   "dependencies": {
-    "wickrbot": "^0.1.6",
-    "wickrio_addon": "^6.20.1"
+    "wickrbot": "^0.4.1",
+    "wickrio_addon": "^7.1.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",

@@ -1,9 +1,9 @@
-const wickr = require('wickrio_addon');
+const { WickrIOAddon } = require('wickrio_addon');
 
 const {{cookiecutter.class_name}} = require('./lib/bot');
 
 async function main() {
-    let bot = new {{cookiecutter.class_name}}(wickr);
+    let bot = new {{cookiecutter.class_name}}(new WickrIOAddon());
     bot.start();
 }
 
