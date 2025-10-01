@@ -44,7 +44,7 @@ wickrio-milk-bot/
 3 directories, 10 files
 ```
 
- ow you're ready to start developing a WickrIO bot! Following the example above, the entrypoint for your bot is in `./wickrio-milk-bot/index.js`, and most of the bot logic can be found in `./wickrio-milk-bot/lib/bot.js`.
+Now you're ready to start developing a WickrIO bot! Following the example above, the entrypoint for your bot is in `./wickrio-milk-bot/index.js`, and most of the bot logic can be found in `./wickrio-milk-bot/lib/bot.js`.
 
 # License
 
